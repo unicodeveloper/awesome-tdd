@@ -5,7 +5,7 @@ Curated list of resources: books, videos, articles about using TDD( Test Driven 
 
 ## TDD IN PYTHON
 
-*[Beginning Test Driven Development in Python](http://code.tutsplus.com/tutorials/beginning-test-driven-development-in-python--net-30137)
+* [Beginning Test Driven Development in Python](http://code.tutsplus.com/tutorials/beginning-test-driven-development-in-python--net-30137)
 
 
 ## TDD IN PHP
