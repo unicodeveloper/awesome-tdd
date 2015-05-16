@@ -1,4 +1,4 @@
-# awesome-tdd
+# Awesome-tdd
 Curated list of resources: books, videos, articles about using TDD( Test Driven Development )
 
 > A curated list of Courses, tutorials, libraries, tips and tricks, books, videos and resources about TDD - Test Driven Development.
@@ -8,13 +8,21 @@ Curated list of resources: books, videos, articles about using TDD( Test Driven 
 * [Beginning Test Driven Development in Python](http://code.tutsplus.com/tutorials/beginning-test-driven-development-in-python--net-30137)
 
 
-## TDD IN PHP
+### TDD IN PHP
 
 
-## TDD IN JAVASCRIPT
+### TDD IN JAVASCRIPT
+
+#### AngularJS
+* [Unit Testing in AngularJS: Services, Controllers & Providers](http://www.sitepoint.com/unit-testing-angularjs-services-controllers-providers/)
+* [AngularJS Unit Testing](https://quickleft.com/blog/angularjs-unit-testing-for-real-though/)
+* [Testing Angular with Karma](https://www.airpair.com/angularjs/posts/testing-angular-with-karma)
+
+##### Videos
+* [AngularJS Testing Overview](https://egghead.io/lessons/angularjs-testing-overview)
 
 
-## TDD IN RUBY
+### TDD IN RUBY
 
 
 
@@ -27,6 +35,4 @@ Found an awesome blog, video, talk, tutorial etc that's not on this list?. Notif
 * Please make an individual pull request for each suggestion
 * Use the following format for resources: \[Resource\]\(URL\)
 * Use the following format for websites/apps developed with the Mean Stack: \[Website\]\(URL\) - Short description
-
-## Contents
 
