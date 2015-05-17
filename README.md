@@ -17,6 +17,18 @@ Curated list of resources: books, videos, articles about using TDD( Test Driven 
 * [Unit Testing in AngularJS: Services, Controllers & Providers](http://www.sitepoint.com/unit-testing-angularjs-services-controllers-providers/)
 * [AngularJS Unit Testing](https://quickleft.com/blog/angularjs-unit-testing-for-real-though/)
 * [Testing Angular with Karma](https://www.airpair.com/angularjs/posts/testing-angular-with-karma)
+* [An Introduction To Unit Testing In AngularJS Applications](http://www.smashingmagazine.com/2014/10/07/introduction-to-unit-testing-in-angularjs/)
+* [AngularJS End to End Testing With Protractor - Easy Set Up With Yeoman, Grunt, Bower](http://www.codeorbits.com/blog/2014/01/26/angularjs-end-to-end-testing-with-protractor-easy-set-up-with-yeoman/)
+* [Continuous Integration for AngularJS Applications with Jenkins](http://www.cardinalsolutions.com/cardinal/blog/custom-application-development/2014/07/continuous_integrati.html)
+* [Getting started unit-testing Angular](http://www.ng-newsletter.com/advent2013/#!/day/19)
+* [How To Unit Test An Angular App](http://www.alexrothenberg.com/2013/08/06/how-to-unit-test-an-angular-app.html)
+* [Testing AngularJS directive templates with Jasmine and Karma](http://daginge.com/technology/2013/12/14/testing-angular-templates-with-jasmine-and-karma/)
+* [Testing AngularJS Apps Using Karma](https://www.airpair.com/angularjs/posts/testing-angular-with-karma)
+* [Unit Testing an AngularJS Directive](http://blog.revolunet.com/blog/2013/12/05/unit-testing-angularjs-directive/)
+* [Unit Testing w/ AngularJS](http://moduscreate.com/unit-testing-w-angularjs/)
+* [Unit Testing - Directives](http://www.benlesh.com/2013/06/angular-js-unit-testing-directives.html)
+* [Unit Testing - Services](http://www.benlesh.com/2013/06/angular-js-unit-testing-services.html)
+* [Unit Testing - Controllers](http://www.benlesh.com/2013/05/angularjs-unit-testing-controllers.html)
 
 ##### Videos
 * [AngularJS Testing Overview](https://egghead.io/lessons/angularjs-testing-overview)
