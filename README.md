@@ -32,6 +32,13 @@ Curated list of resources: books, videos, articles about using TDD( Test Driven 
 
 ##### Videos
 * [AngularJS Testing Overview](https://egghead.io/lessons/angularjs-testing-overview)
+* [AngularJS Protractor Tutorial 01 Framework Setup](https://www.youtube.com/watch?v=57134cHJlAs)
+* [AngularJS Protractor Tutorial 02 Configuration and Basic Test](https://www.youtube.com/watch?v=VAWKEHstjx8)
+* [AngularJS Protractor Tutorial 03 Using Locators](https://www.youtube.com/watch?v=Obi0y0AEFZg)
+* [AngularJS Protractor Tutorial 04 Using Expects](https://www.youtube.com/watch?v=U2awkXd27So)
+* [AngularJS Protractor Tutorial 5 Before and After](https://www.youtube.com/watch?v=9rBf8gtY81U)
+* [AngularJS Protractor Tutorial 06 Writing CSS Expressions](https://www.youtube.com/watch?v=sHyp7vk7DeE)
+* [AngularJS Protractor Tutorial 07 Using Page Object Pattern](https://www.youtube.com/watch?v=ln_jaC11SAA)
 
 
 ### TDD IN RUBY
