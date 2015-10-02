@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg)
+
 # Awesome-tdd
 Curated list of resources: books, videos, articles about using TDD( Test Driven Development )
 
