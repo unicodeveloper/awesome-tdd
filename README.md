@@ -60,3 +60,12 @@ Found an awesome blog, video, talk, tutorial etc that's not on this list?. Notif
 * Use the following format for resources: \[Resource\]\(URL\)
 * Use the following format for websites/apps developed with the Mean Stack: \[Website\]\(URL\) - Short description
 
+## How can I thank you?
+
+Why not star the github repo? I'd love the attention! Why not share the link for this repository on Twitter or HackerNews? Spread the word!
+
+Don't forget to [follow me on twitter](https://twitter.com/unicodeveloper)!
+
+Thanks!
+Prosper Otemuyiwa.
+
