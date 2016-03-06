@@ -2,7 +2,7 @@
 # Awesome-tdd [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg)
 Curated list of resources: books, videos, articles about using TDD( Test Driven Development )
 
-> A curated list of courses, tutorials, libraries, tips and tricks, books, videos and awesome resources about TDD - Test Driven Development.
+> A curated list of courses, tutorials, libraries, tips and tricks, books, videos and awesome resources about TDD
 
 ## TDD IN PYTHON
 
