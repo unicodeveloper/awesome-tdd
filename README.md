@@ -1,24 +1,22 @@
-![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg)
 
-# Awesome-tdd
+# Awesome-tdd [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg)
 Curated list of resources: books, videos, articles about using TDD( Test Driven Development )
 
-> A curated list of Courses, tutorials, libraries, tips and tricks, books, videos and resources about TDD - Test Driven Development.
+> A curated list of courses, tutorials, libraries, tips and tricks, books, videos and awesome resources about TDD - Test Driven Development.
 
 ## TDD IN PYTHON
 
 * [Beginning Test Driven Development in Python](http://code.tutsplus.com/tutorials/beginning-test-driven-development-in-python--net-30137)
 
-
 ## TDD IN PHP
 * [Test Driven Development Example by Daylerees](https://github.com/daylerees/test-driven-development-example)
 
-#### Laravel
+### Laravel
 * [Test Driven Laravel From Scratch](http://adamwathan.me/2016/01/11/test-driven-laravel-from-scratch/)
 
 ## TDD IN JAVASCRIPT
 
-#### AngularJS
+### AngularJS
 * [Unit Testing in AngularJS: Services, Controllers & Providers](http://www.sitepoint.com/unit-testing-angularjs-services-controllers-providers/)
 * [AngularJS Unit Testing](https://quickleft.com/blog/angularjs-unit-testing-for-real-though/)
 * [Testing Angular with Karma](https://www.airpair.com/angularjs/posts/testing-angular-with-karma)
@@ -34,8 +32,6 @@ Curated list of resources: books, videos, articles about using TDD( Test Driven 
 * [Unit Testing - Directives](http://www.benlesh.com/2013/06/angular-js-unit-testing-directives.html)
 * [Unit Testing - Services](http://www.benlesh.com/2013/06/angular-js-unit-testing-services.html)
 * [Unit Testing - Controllers](http://www.benlesh.com/2013/05/angularjs-unit-testing-controllers.html)
-
-##### Videos
 * [AngularJS Testing Overview](https://egghead.io/lessons/angularjs-testing-overview)
 * [AngularJS Protractor Tutorial 01 Framework Setup](https://www.youtube.com/watch?v=57134cHJlAs)
 * [AngularJS Protractor Tutorial 02 Configuration and Basic Test](https://www.youtube.com/watch?v=VAWKEHstjx8)
@@ -46,7 +42,7 @@ Curated list of resources: books, videos, articles about using TDD( Test Driven 
 * [AngularJS Protractor Tutorial 07 Using Page Object Pattern](https://www.youtube.com/watch?v=ln_jaC11SAA)
 
 
-### TDD IN RUBY
+## TDD IN RUBY
 
 
 
