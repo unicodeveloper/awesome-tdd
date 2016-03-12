@@ -44,6 +44,7 @@ Curated list of resources: books, videos, articles about using TDD( Test Driven 
 * [TDD with Laravel and Doctrine](http://code.tutsplus.com/tutorials/test-driven-development-with-laravel-doctrine--cms-25563)
 * [Getting Started with BDD in Laravel ](https://semaphoreci.com/community/tutorials/getting-started-with-bdd-in-laravel)
 * [Laravel 5 Coding - TDD](http://laravelcoding.com/blog/laravel-5-beauty-testing)
+* [Laravel, BDD and You, Let's get Started](http://code.tutsplus.com/tutorials/laravel-bdd-and-you-lets-get-started--cms-22155)
 
 ## TDD IN JAVASCRIPT
 
