@@ -15,6 +15,9 @@ Curated list of resources: books, videos, articles about using TDD( Test Driven 
 
 * [Beginning Test Driven Development in Python](http://code.tutsplus.com/tutorials/beginning-test-driven-development-in-python--net-30137)
 
+### Django
+* [Test-Driven Django Tutorial](http://www.tdd-django-tutorial.com/)
+
 ## TDD IN PHP
 * [Test Driven Development Example by Daylerees](https://github.com/daylerees/test-driven-development-example)
 
