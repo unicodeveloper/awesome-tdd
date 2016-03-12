@@ -14,9 +14,17 @@ Curated list of resources: books, videos, articles about using TDD( Test Driven 
 ## TDD IN PYTHON
 
 * [Beginning Test Driven Development in Python](http://code.tutsplus.com/tutorials/beginning-test-driven-development-in-python--net-30137)
+* [TDD in 5 minutes](https://dzone.com/articles/tdd-python-5-minutes)
+* [TDD in python and pycharm](http://tzaffi.github.io/tdd/example_tdd_in_pycharm/README.html)
+* [Unit testing and TDD](http://www.cis.upenn.edu/~matuszek/cit591-2012/Pages/unit-testing-in-python.html)
+* [TDD with Python](http://www.codekoala.com/posts/test-driven-development-with-python/)
+* [TDD with Python - The Book Online](http://chimera.labs.oreilly.com/books/1234000000754/index.html)
+* [Example of TDD in Python](http://www.sasanalysis.com/2014/09/one-example-of-test-driven-development.html)
+
 
 ### Django
 * [Test-Driven Django Tutorial](http://www.tdd-django-tutorial.com/)
+* [Understanding TDD with Django](http://arunrocks.com/understanding-tdd-with-django/)
 
 ## TDD IN PHP
 * [Test Driven Development Example by Daylerees](https://github.com/daylerees/test-driven-development-example)
