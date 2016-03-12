@@ -44,6 +44,7 @@ Curated list of resources: books, videos, articles about using TDD( Test Driven 
 
 ## TDD IN JAVASCRIPT
 
+
 ### AngularJS
 * [Unit Testing in AngularJS: Services, Controllers & Providers](http://www.sitepoint.com/unit-testing-angularjs-services-controllers-providers/)
 * [AngularJS Unit Testing](https://quickleft.com/blog/angularjs-unit-testing-for-real-though/)
@@ -71,6 +72,13 @@ Curated list of resources: books, videos, articles about using TDD( Test Driven 
 
 
 ## TDD IN RUBY
+* [Introduction to test driven design](http://rubyoffrails.com/videos/18-introduction-to-test-driven-design-tdd)
+* []()
+
+
+### Rails
+* [Test Driven Rails - Part 1](https://karolgalanciak.com/blog/2014/01/04/test-driven-rails-part-1/)
+* [Test Driven Rails - Part 2](https://karolgalanciak.com/blog/2014/03/03/test-driven-rails-part-2/)
 
 
 
