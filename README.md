@@ -47,6 +47,18 @@ Curated list of resources: books, videos, articles about using TDD( Test Driven 
 * [Laravel, BDD and You, Let's get Started](http://code.tutsplus.com/tutorials/laravel-bdd-and-you-lets-get-started--cms-22155)
 
 ## TDD IN JAVASCRIPT
+* [Let's Code: Test Driven Javascript](http://www.letscodejavascript.com/)
+* [Test Driven Javascript Development in Practice](http://code.tutsplus.com/tutorials/test-driven-javascript-development-in-practice--net-16246)
+* [Getting Started with JS & TDD](https://open.bekk.no/getting-started-with-js-and-tdd)
+* [TDD by Example](http://thejackalofjavascript.com/test-driven-development-by-example/)
+* [Learn TDD in Javascript](https://github.com/dwyl/learn-tdd)
+* [Test Driven Javascript Development](https://www.packtpub.com/web-development/test-driven-javascript-development)
+
+
+### NodeJS
+* [TDD in Nodejs](http://www.lynda.com/Node-js-tutorials/Test-Driven-Development-Node-js/383527-2.html)
+* [Unit testing and TDD in Nodejs - Part 1](https://www.codementor.io/nodejs/tutorial/unit-testing-nodejs-tdd-mocha-sinon)
+* [Unit Testing and TDD in Nodejs - Part 2](https://www.codementor.io/nodejs/tutorial/unit-testing-tdd-node-js-nockjs-part-2)
 
 
 ### AngularJS
