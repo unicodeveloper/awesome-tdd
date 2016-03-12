@@ -74,7 +74,10 @@ Curated list of resources: books, videos, articles about using TDD( Test Driven 
 ## TDD IN RUBY
 * [Introduction to test driven design](http://rubyoffrails.com/videos/18-introduction-to-test-driven-design-tdd)
 * [Rails girls - Test Driven Development](http://guides.railsgirls.com/test-driven-development)
-* []()
+* [Learn TDD by Practicing 7 Katas](https://www.udemy.com/learn-test-driven-development-in-ruby/)
+* [Learn TDD with Ruby Koans](http://rubykoans.com/)
+* [Coding Conways game of Life in Ruby the TDD way with Rspec](http://www.rubyinside.com/screencast-coding-conways-game-of-life-in-ruby-the-tdd-way-with-rspec-5564.html)
+* [TDD with Ruby and Rspec](https://github.com/zachtblake/tdd_ruby)
 
 
 ### Rails
@@ -84,7 +87,7 @@ Curated list of resources: books, videos, articles about using TDD( Test Driven 
 * [Rails Testing for Zombies with TDD](https://www.codeschool.com/courses/rails-testing-for-zombies)
 * [Let's Build: Instagram TDD with Rails Building an Instagram Clone](https://www.devwalks.com/lets-build-instagram-test-driven-with-ruby-on-rails-part-1/)
 * [15 TDD Steps to create a Rails Application](http://andrzejonsoftware.blogspot.com.ng/2007/05/15-tdd-steps-to-create-rails.html)
-* []()
+* [Learn TDD with Ror](https://github.com/fsproru/tdd_with_ror)
 
 
 ## Contributing
