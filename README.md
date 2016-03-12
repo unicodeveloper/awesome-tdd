@@ -28,9 +28,19 @@ Curated list of resources: books, videos, articles about using TDD( Test Driven 
 
 ## TDD IN PHP
 * [Test Driven Development Example by Daylerees](https://github.com/daylerees/test-driven-development-example)
+* [The newbies guide to TDD](http://code.tutsplus.com/tutorials/the-newbies-guide-to-test-driven-development--net-13835)
+* [TDD in PHP: First Steps](http://code.tutsplus.com/tutorials/test-driven-development-in-php-first-steps--net-25796)
+* [Automatic Testing for TDD with PHP](http://code.tutsplus.com/tutorials/automatic-testing-for-tdd-with-php--net-26395)
+* [Lets TDD a simple app in PHP](http://code.tutsplus.com/tutorials/lets-tdd-a-simple-app-in-php--net-26186)
+* [Deciphering testing Jargon](http://code.tutsplus.com/tutorials/deciphering-testing-jargon--net-27513)
+* [Basic TDD in your new PHP Package](http://www.sitepoint.com/basic-tdd-new-php-package/)
+* [Test Driven Development with PHP](http://www.paulund.co.uk/test-driven-development-with-php)
+* [PHP Test-Driven Development Automated Tools to Improve Your PHP Code Quality](https://dzone.com/refcardz/phpunit-php-test-driven)
+
 
 ### Laravel
 * [Test Driven Laravel From Scratch](http://adamwathan.me/2016/01/11/test-driven-laravel-from-scratch/)
+* [TDD by Example](https://laracasts.com/lessons/tdd-by-example)
 
 ## TDD IN JAVASCRIPT
 
