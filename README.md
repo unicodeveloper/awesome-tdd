@@ -8,7 +8,7 @@ Curated list of resources: books, videos, articles about using TDD( Test Driven 
 
 *Please read the [contribution guidelines](#guidelines) before contributing.*
 
-**Check out my [blog](https://goodheads.io) 🦄 or say *hi* on [Twitter](https://twitter.com/unicodeveloper).**
+**Check out my [blog](https://goodheads.io) or say *hi* on [Twitter](https://twitter.com/unicodeveloper).**
 
 ## Table of Contents
 
