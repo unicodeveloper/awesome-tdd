@@ -143,7 +143,6 @@ Found an awesome blog, video, talk, tutorial etc that's not on this list?. Notif
 
 * Please make an individual pull request for each suggestion
 * Make sure what you are adding is not already on the list
-* Adhere to [The code of conduct](code-of-conduct.md)
 * Use the following format: `* [Name](Link)`
 * Add it to the bottom of the section, not top or middle
 * Check your spelling and grammar
