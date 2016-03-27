@@ -4,12 +4,23 @@ Curated list of resources: books, videos, articles about using TDD( Test Driven 
 
 > A curated list of courses, tutorials, libraries, tips and tricks, books, videos and awesome resources about TDD
 
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-lumen](https://github.com/unicodeveloper/awesome-lumen).*
+
+*Please read the [contribution guidelines](#guidelines) before contributing.*
+
+**Check out my [blog](https://goodheads.io) 🦄 or say *hi* on [Twitter](https://twitter.com/unicodeveloper).**
+
 ## Table of Contents
 
 - [TDD in Python](#tdd-in-python)
+  -  [Django](#django)
 - [TDD in PHP](#tdd-in-php)
+  -  [Laravel](#laravel)
 - [TDD in Javascript](#tdd-in-javascript)
+  -  [Nodejs](#nodejs)
+  -  [Angularjs](#angularjs)
 - [TDD in Ruby](#tdd-in-ruby)
+  -  [Rails](#rails)
 
 ## TDD IN PYTHON
 
@@ -126,13 +137,14 @@ Curated list of resources: books, videos, articles about using TDD( Test Driven 
 
 ## Contributing
 
-Found an awesome blog, video, talk, tutorial etc that's not on this list?. Notify me.
+Found an awesome blog, video, talk, tutorial etc that's not on this list?. Notify me or send a PR.
 
 ### Guidelines
 
 * Please make an individual pull request for each suggestion
 * Use the following format for resources: \[Resource\]\(URL\)
-* Use the following format for websites/apps developed with the Mean Stack: \[Website\]\(URL\) - Short description
+* If you are adding a new language or framework, make sure it has a reference in the Table of Contents.
+
 
 ## How can I thank you?
 
@@ -142,4 +154,11 @@ Don't forget to [follow me on twitter](https://twitter.com/unicodeveloper)!
 
 Thanks!
 Prosper Otemuyiwa.
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Prosper Otemuyiwa](http://twitter.com/unicodeveloper) has waived all copyright and related or neighboring rights to this work.
+
 
