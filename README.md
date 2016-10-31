@@ -19,6 +19,7 @@ Curated list of resources: books, videos, articles about using TDD( Test Driven 
 - [TDD in Javascript](#tdd-in-javascript)
   -  [Nodejs](#nodejs)
   -  [Angularjs](#angularjs)
+  -  [Reactjs](#reactjs)
 - [TDD in Ruby](#tdd-in-ruby)
   -  [Rails](#rails)
 
@@ -115,6 +116,9 @@ Curated list of resources: books, videos, articles about using TDD( Test Driven 
 * [AngularJS Protractor Tutorial 06 Writing CSS Expressions](https://www.youtube.com/watch?v=sHyp7vk7DeE)
 * [AngularJS Protractor Tutorial 07 Using Page Object Pattern](https://www.youtube.com/watch?v=ln_jaC11SAA)
 
+
+### ReactJS
+* [TDD in ES6 & React Webcast](https://ericelliottjs.com/product/tdd-es6-react/)
 
 ## TDD IN RUBY
 * [Introduction to test driven design](http://rubyoffrails.com/videos/18-introduction-to-test-driven-design-tdd)
