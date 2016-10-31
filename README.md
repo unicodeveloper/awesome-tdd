@@ -119,6 +119,7 @@ Curated list of resources: books, videos, articles about using TDD( Test Driven 
 
 ### ReactJS
 * [TDD in ES6 & React Webcast](https://ericelliottjs.com/product/tdd-es6-react/)
+* [React TDD guide](https://github.com/zpratt/react-tdd-guide)
 
 ## TDD IN RUBY
 * [Introduction to test driven design](http://rubyoffrails.com/videos/18-introduction-to-test-driven-design-tdd)
