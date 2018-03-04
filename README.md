@@ -65,6 +65,7 @@ Curated list of resources: books, videos, articles about using TDD( Test Driven 
 * [TDD by Example](http://thejackalofjavascript.com/test-driven-development-by-example/)
 * [Learn TDD in Javascript](https://github.com/dwyl/learn-tdd)
 * [Test Driven Javascript Development](https://www.packtpub.com/web-development/test-driven-javascript-development)
+* [Mutation testing in JavaScript](https://github.com/stryker-mutator/stryker)
 
 
 ### NodeJS
