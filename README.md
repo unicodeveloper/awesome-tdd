@@ -132,6 +132,7 @@ Curated list of resources: books, videos, articles about using TDD( Test Driven 
 
 
 ### Rails
+* [Rails Testing Handbook](https://semaphoreci.com/ebooks/rails-testing-handbook)
 * [Test Driven Rails - Part 1](https://karolgalanciak.com/blog/2014/01/04/test-driven-rails-part-1/)
 * [Test Driven Rails - Part 2](https://karolgalanciak.com/blog/2014/03/03/test-driven-rails-part-2/)
 * [Introducing TDD with Rails 3](http://www.sitepoint.com/introducing-test-driven-development-with-rails-3/)
