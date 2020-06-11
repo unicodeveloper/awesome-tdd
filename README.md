@@ -22,6 +22,8 @@ Curated list of resources: books, videos, articles about using TDD( Test Driven 
   -  [Reactjs](#reactjs)
 - [TDD in Ruby](#tdd-in-ruby)
   -  [Rails](#rails)
+- [TDD in Java](#tdd-in-java)
+  -  [JUnit](#junit)
 - [TDD in C#](#tdd-in-C#)
 
 ## TDD IN PYTHON
@@ -142,6 +144,13 @@ Curated list of resources: books, videos, articles about using TDD( Test Driven 
 * [15 TDD Steps to create a Rails Application](http://andrzejonsoftware.blogspot.com.ng/2007/05/15-tdd-steps-to-create-rails.html)
 * [Learn TDD with Ror](https://github.com/fsproru/tdd_with_ror)
 
+
+## TDD IN JAVA
+
+### JUnit
+* [JUnit in Action, Third Edition](https://www.manning.com/books/junit-in-action-third-edition)
+
+=======
 ## TDD IN C#
 
 * [Get some hands-on practice with test-driven development in C#](https://www.freecodecamp.org/news/tdd-explanation-hands-on-practice-with-c-a0124338be44/)
