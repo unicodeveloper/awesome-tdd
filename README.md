@@ -144,6 +144,7 @@ Curated list of resources: books, videos, articles about using TDD( Test Driven 
 * [Let's Build: Instagram TDD with Rails Building an Instagram Clone](https://www.devwalks.com/lets-build-instagram-test-driven-with-ruby-on-rails-part-1/)
 * [15 TDD Steps to create a Rails Application](http://andrzejonsoftware.blogspot.com.ng/2007/05/15-tdd-steps-to-create-rails.html)
 * [Learn TDD with Ror](https://github.com/fsproru/tdd_with_ror)
+* [Learn TDD in Rails](https://learntdd.in/rails)
 
 
 ## TDD IN JAVA
