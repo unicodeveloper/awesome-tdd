@@ -71,6 +71,7 @@ Curated list of resources: books, videos, articles about using TDD( Test Driven 
 * [Mutation testing in JavaScript](https://github.com/stryker-mutator/stryker)
 * [TDD the RITE Way](https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3)
 * [Testing JavaScript Applications](https://www.manning.com/books/testing-javascript-applications) - A book about JavaScript testing tools and techniques which includes an entire chapter dedicated to TDD.
+* [Outside-In Frontend Development in React](https://outsidein.dev/) - free online book about TDD with exercises in React and Vue
 
 
 ### NodeJS
